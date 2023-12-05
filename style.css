@@ -1,0 +1,26 @@
+.accordion-card {
+    border: 1px solid #ccc;
+    margin: 10px;
+  }
+  
+  .header {
+    background-color: #f1f1f1;
+    padding: 10px;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .icon {
+    font-size: 18px;
+  }
+  
+  .card-info {
+    margin: 0;
+  }
+  
+  /* Style for the active state */
+  .accordion-card.active .content {
+    display: block;
+  }

@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/accordion/static/js/main.dad65416.js",
+    "index.html": "/accordion/index.html",
+    "main.dad65416.js.map": "/accordion/static/js/main.dad65416.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.dad65416.js"
+  ]
+}
